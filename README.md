@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @goncaloMagalhaes
-- 👀 I’m interested in cryptography, web3 and blockchain technology
-- 🌱 I’m currently learning EVM fundamentals and smart contract security
-- 💞️ I’m looking to collaborate on open-source web3 projects and tools that help the community
+- 👋 Hi, I'm @goncaloMagalhaes
+- 🔨 I'm working at @RadomNetwork
+- 👀 I'm interested in cryptography, web3 and blockchain technology
+- 🌱 I'm currently studying smart contract security
+- 💞️ I'm looking to collaborate on open-source web3 projects and tools that help the community
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/goncalo-magalhaes-dev/
 
 <!---
