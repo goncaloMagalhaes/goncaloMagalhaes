@@ -1,8 +1,7 @@
 - 👋 Hi, I'm @goncaloMagalhaes
 - 🔨 I'm working at Radom Network (core) as a blockchain engineer
-- 👀 I'm interested in cryptography, web3 and blockchain technology
+- 👀 I'm interested in cryptography, solidity and blockchain technology
 - 🌱 I'm currently studying smart contract security
-- 💞️ I'm looking to collaborate on open-source web3 projects and tools that help the community
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/goncalo-magalhaes-dev/
 
 <!---
