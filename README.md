@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @goncaloMagalhaes
-- 🔨 I'm a smart contract triager at [Immunefi](https://immunefi.com/) and lead blockchain teacher at [Artemis Education](https://www.artemis.education/)
+- 🔨 I'm a smart contract engineer at [Immunefi](https://immunefi.com/)
 - 👀 I'm interested in security, cryptography and blockchain technology
 - 🌱 I'm always studying
 
