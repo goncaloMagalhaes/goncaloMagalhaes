@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @goncaloMagalhaes
+- 👋 Hi, I'm @gmhacker
 - 🔨 I'm a smart contract engineer at [Immunefi](https://immunefi.com/)
 - 👀 I'm interested in security, cryptography and blockchain technology
 - 🌱 I'm always studying
