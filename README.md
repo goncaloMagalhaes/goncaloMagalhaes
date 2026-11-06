@@ -7,9 +7,9 @@
 
 ### `$ whoami`
 
-Aerospace engineer turned security professional. Currently **Head of Security** at [Immunefi](https://immunefi.com/), leading security management, incident response and AI agent endeavours.
+Head of Security at [Immunefi](https://immunefi.com/), the world's largest Web3 bug bounty platform, where I lead company-wide security and the R&D team building AI security agents. I've built and maintain several AI agents, many of them part of Immunefi's core products, serving many clients and thousands of users.
 
-See my full experience at [goncalomagalhaes.com - experience](https://goncalomagalhaes.com/en/experience)
+Aerospace engineer turned security leader, with more than eight years of experience writing production code. I served on the Arbitrum Security Council from 2024 to 2025. Full story at [goncalomagalhaes.com/experience](https://goncalomagalhaes.com/en/experience).
 
 ### `$ ls -t ~/writing | head -3`
 
@@ -21,11 +21,19 @@ See my full experience at [goncalomagalhaes.com - experience](https://goncalomag
 
 More at [goncalomagalhaes.com/blog](https://goncalomagalhaes.com/en/blog), or get new posts by [email](https://goncalomagalhaes.com/en/newsletter).
 
-### `$ cat interests.txt`
+### `$ grep -rl "Magalhães" /press | head -3`
+
+- **Bloomberg** · [Containing the Binance Hack Hinges on Vow to Make Traders Whole](https://www.bloomberg.com/news/articles/2026-10-30/containing-the-binance-hack-hinges-on-vow-to-make-traders-whole)
+- **WIRED Middle East** · [How Hackers Turned Binance’s Own Systems Against It](https://www.wired.me/story/how-hackers-turned-binances-own-systems-against-it)
+- **American Banker** · [$6B Binance heist provokes stablecoin freeze dilemma](https://www.americanbanker.com/news/6b-binance-heist-provokes-stablecoin-freeze-dilemma)
+
+All of it at [goncalomagalhaes.com/media](https://goncalomagalhaes.com/en/media).
+
+### `$ cat topics.txt`
 
 ```
-Organizational security · Blockchain · Smart contract auditing
-Cryptography · AI security agents
+Crypto hacks and scams · Security of AI agents · Bug bounties and disclosure
+Security management at crypto companies · Wallets and self custody · AI and people
 ```
 
 ### `$ ls talks/`
