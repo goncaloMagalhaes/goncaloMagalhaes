@@ -14,9 +14,9 @@ Aerospace engineer turned security leader, with more than eight years of experie
 ### `$ ls -t ~/writing | head -3`
 
 <!-- writing:start -->
+- [When a cyberattack reaches the fridges](https://goncalomagalhaes.com/en/blog/when-a-cyberattack-reaches-the-fridges) · Nov 2026
 - [From AI spam to PHP2Shell](https://goncalomagalhaes.com/en/blog/from-ai-spam-to-php2shell) · Nov 2026
 - [The Binance hack and a lesson in how to manage a catastrophe](https://goncalomagalhaes.com/en/blog/binance-hack-managing-a-catastrophe) · Nov 2026
-- [In the Competition for Your Attention, You Rarely Win](https://goncalomagalhaes.com/en/blog/attention-competition) · Mar 2026
 <!-- writing:end -->
 
 More at [goncalomagalhaes.com/blog](https://goncalomagalhaes.com/en/blog), or get new posts by [email](https://goncalomagalhaes.com/en/newsletter).
