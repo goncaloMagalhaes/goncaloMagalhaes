@@ -14,9 +14,9 @@ Aerospace engineer turned security leader, with more than eight years of experie
 ### `$ ls -t ~/writing | head -3`
 
 <!-- writing:start -->
+- [AI in business: shrink first, grow later](https://goncalomagalhaes.com/en/blog/ai-in-business-shrink-first-grow-later) · Nov 2026
 - [Human slop: when thinking itself is delegated to AI](https://goncalomagalhaes.com/en/blog/human-slop) · Nov 2026
 - [What is an "AI attack", anyway?](https://goncalomagalhaes.com/en/blog/what-is-an-ai-attack) · Nov 2026
-- [When a cyberattack reaches the fridges](https://goncalomagalhaes.com/en/blog/when-a-cyberattack-reaches-the-fridges) · Nov 2026
 <!-- writing:end -->
 
 More at [goncalomagalhaes.com/blog](https://goncalomagalhaes.com/en/blog), or get new posts by [email](https://goncalomagalhaes.com/en/newsletter).
